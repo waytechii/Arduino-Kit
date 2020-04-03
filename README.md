@@ -4,11 +4,11 @@
 
 The objective of this **Arduino Kit**, is to give basic understanding of microcontrollers, using world famous platform of Arduino IDE.
 
-> About the Kit :  &nbsp;&nbsp;&nbsp;  [Topicwise Slides](./Slides)
+> About the Kit :  &nbsp;&nbsp;&nbsp;  [Example code](./examples)
 
-[![Arduino Kit](./images/kitlabeled.png)](./Slides/1.IoT_overview.pdf) 
-IoT has revolutionised the digital world, by connecting all the things together. 
+[![Arduino Kit](./images/kitsilk.png)](./Slides/1.IoT_overview.pdf) 
+Arduino kit will help the kids to understand and practice the making of connected world of Electronics / IoT. 
 
-[Kit Layout](./images/kitsilk.png)
+[Detailed Kit Layout](./images/kitlabeled.png)
 
  

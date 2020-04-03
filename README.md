@@ -7,8 +7,11 @@ The objective of this **Arduino Kit**, is to give basic understanding of microco
 > About the Kit :  &nbsp;&nbsp;&nbsp;  [Example code](./examples)
 
 [![Arduino Kit](./images/kitsilk.png)](./Slides/1.IoT_overview.pdf) 
+
 Arduino kit will help the kids to understand and practice the making of connected world of Electronics / IoT. 
 
 [Detailed Kit Layout](./images/kitlabeled.png)
+[LED Add_on Board Layout](./images/LED_addon1.png)
+[LED Add_on Board](./images/LED_addon2.png)
 
  

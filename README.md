@@ -10,8 +10,8 @@ The objective of this **Arduino Kit**, is to give basic understanding of microco
 
 Arduino kit will help the kids to understand and practice the making of connected world of Electronics / IoT. 
 
-[Detailed Kit Layout](./images/kitlabeled.png)
-[LED Add_on Board Layout](./images/LED_addon1.png)
-[LED Add_on Board](./images/LED_addon2.png)
+- [Detailed Kit Layout](./images/kitlabeled.png)
+- [LED Add_on Board Layout](./images/LED_addon1.png)
+- [LED Add_on Board](./images/LED_addon2.png)
 
  
